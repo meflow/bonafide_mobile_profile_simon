@@ -1,6 +1,6 @@
-import simonProfile from './assets/simon_profile.png'
-import bonafideosLogo from './assets/bonafideos_logo.png'
-import simonEventBanner from './assets/simon_event_banner.png'
+import simonProfile from './assets/simon_profile.webp'
+import bonafideosLogo from './assets/bonafideos_logo.webp'
+import simonEventBanner from './assets/simon_event_banner.webp'
 
 export default function App() {
   return (
